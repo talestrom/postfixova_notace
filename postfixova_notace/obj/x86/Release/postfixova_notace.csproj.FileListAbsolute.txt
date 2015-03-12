@@ -1,0 +1,5 @@
+C:\Users\chvostik\documents\visual studio 2010\Projects\postfixova_notace\postfixova_notace\bin\Release\postfixova_notace.exe
+C:\Users\chvostik\documents\visual studio 2010\Projects\postfixova_notace\postfixova_notace\bin\Release\postfixova_notace.pdb
+C:\Users\chvostik\documents\visual studio 2010\Projects\postfixova_notace\postfixova_notace\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\chvostik\documents\visual studio 2010\Projects\postfixova_notace\postfixova_notace\obj\x86\Release\postfixova_notace.exe
+C:\Users\chvostik\documents\visual studio 2010\Projects\postfixova_notace\postfixova_notace\obj\x86\Release\postfixova_notace.pdb
